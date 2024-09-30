@@ -8,7 +8,7 @@ Python 3.x 🐍
 Libraries:
 requests 📦
 pandas 📊
-Sqlalchemy which simplifies the insertion process. 📥
+Sqlalchemy. 📥
 MySQL server running 🗄️
 Access to the Autolist API 🌐
 ## API Overview
