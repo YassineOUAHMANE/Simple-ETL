@@ -22,6 +22,6 @@ Once the data is extracted, it is transformed into a more usable format. This in
 ## Load Data into MySQL 📥
 We load the transformed data into a MySQL database using SQLAlchemy
 
-## Query the Data 🧐
+### Query the Data 🧐
 Now that the data is loaded, you can run various SQL queries to analyze the vehicle listings.
 
